@@ -13,11 +13,13 @@ This repository contains all the resources and solutions to the tasks provided d
       The format of the commit message should be as follows : `"Task #<task_no> : <task_description>`. Mention any errors or issues if any so that we can help you rectify them.
     * To finally push your code, use the following command: `git push origin <branch-name>`. If you are pushing your code for the first time, you will be prompted to provide your login details before you are able to push your code. If you are unable to push your code, contact any of the mentors or the ManComm members.
 * To pull the solutions to the task, use the following commands :   
-    `git checkout main`  
-    `git pull origin main`
+    ```Bash
+    git checkout main
+    git pull origin main
+    ```
 
 * An example of how this will look :   
-```
+```Bash
 git checkout -b Abhinav-Agrawal
 git checkout Abhinav-Agrawal        //to check if are still in your own branch
 git add .                           //stage all the files in the directory for commit
