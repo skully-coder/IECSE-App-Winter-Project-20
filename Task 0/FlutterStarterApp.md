@@ -2,7 +2,7 @@
 
 When a new Flutter project is created, it contains a demo app which uses material components. The main.dart file of the app contains the following code.
 
-
+```dart 
     import 'package:flutter/material.dart';
 
     void main() {
@@ -120,3 +120,4 @@ When a new Flutter project is created, it contains a demo app which uses materia
         );
     }
     }
+```
