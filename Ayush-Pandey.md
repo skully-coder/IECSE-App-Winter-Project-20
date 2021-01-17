@@ -1,3 +1,3 @@
 # Week 0
 ## Ayush Pandey
-![Ayush-Pandey](C:\Users\Heisenberg-Ayush\myapp\ios\Task 0\Ayush-Pandey.png)
+![Ayush-Pandey](C:\Users\Heisenberg-Ayush\IECSE-App-Winter-Project-20\Task 0\Ayush-Pandey.png)
