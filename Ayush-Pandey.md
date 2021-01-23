@@ -7,7 +7,7 @@
 //Make your own profile
 
 ## App Screenshot:
-![Ayush-Pandey](https://github.com/skully-coder/IECSE-App-Winter-Project-20/blob/Ayush-Pandey/Task%200/Ayush-Pandey.png)
+![Ayush-Pandey](https://github.com/skully-coder/IECSE-App-Winter-Project-20/blob/Ayush-Pandey/Task%201/appProfile.png)
 
 ## Assets Used:
 //Lobster-Regular.ttf
