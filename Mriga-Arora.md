@@ -9,7 +9,7 @@
 
 ## App Screenshots:
 
-![Screenshot]
+![Screenshot](https://github.com/skully-coder/IECSE-App-Winter-Project-20/blob/Mriga-Arora/Task%201/task1.png)
 
 ## Packages/Assets Used:
 IMAGE ASSET:
