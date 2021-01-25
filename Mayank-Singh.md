@@ -7,6 +7,7 @@ My first app: [My_First_App] (https://github.com/skully-coder/IECSE-App-Winter-P
 Made the 'My Profile' app.
 
 <h2> Screenshots </h2>
+
 ![Screenshot for the profile app](https://github.com/skully-coder/IECSE-App-Winter-Project-20/blob/Mayank-Singh/Task%201/ProfileApp.jpeg)
 
 <h2> Assets Used </h2>
