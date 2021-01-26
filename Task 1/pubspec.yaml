@@ -1,0 +1,33 @@
+name: profile_page
+description: A new Flutter project.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+    - assets/fonts/
+
+  fonts:
+    - family: Galada
+      fonts:
+        - asset: assets/fonts/Galada-Regular.ttf
+
+    - family: Trajan Pro
+      fonts:
+        - asset: assets/fonts/RobotoCondensed-Bold.ttf
