@@ -21,7 +21,7 @@ This repository contains all the resources and solutions to the tasks provided d
 * An example of how this will look :   
 ```Bash
 git checkout -b Abhinav-Agrawal
-git checkout Abhinav-Agrawal        //to check if are still in your own branch
+git checkout Abhinav-Agrawal        //to check if you are still in your own branch
 git add .                           //stage all the files in the directory for commit
 git commit -m "Task #00: Description"
 git push origin Abhinav-Agrawal     //this pushes the code to your own branch
