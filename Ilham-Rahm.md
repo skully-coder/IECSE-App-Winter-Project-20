@@ -19,4 +19,18 @@ Used fonts : biological-font
 
 Used Images/Icons : ilhamicon.ico  
                     emailicon.webp
-                    phoneicon.png          
+                    phoneicon.png       
+
+
+# week 2
+
+## Task description
+Added necessary files and folder to task 2 folder
+
+## App Screenshots
+![screenshot](https://github.com/skully-coder/IECSE-App-Winter-Project-20/blob/Ilham-Rahm/Task%202/main%20page.png)
+![screenshot](https://github.com/skully-coder/IECSE-App-Winter-Project-20/blob/Ilham-Rahm/Task%202/transmission.png)
+![screenshot](https://github.com/skully-coder/IECSE-App-Winter-Project-20/blob/Ilham-Rahm/Task%202/prevention1.png)
+
+## Packages/Assets used:
+used covid-2.jpg and covid-19-1600x900.jpg as images
