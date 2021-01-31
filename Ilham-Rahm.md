@@ -25,12 +25,19 @@ Used Images/Icons : ilhamicon.ico
 # week 2
 
 ## Task description
-Added necessary files and folder to task 2 folder
+Added necessary files and folder to task 2 folder and also completed bonus task.
+
+
 
 ## App Screenshots
 ![screenshot](https://github.com/skully-coder/IECSE-App-Winter-Project-20/blob/Ilham-Rahm/Task%202/main%20page.png)
 ![screenshot](https://github.com/skully-coder/IECSE-App-Winter-Project-20/blob/Ilham-Rahm/Task%202/transmission.png)
 ![screenshot](https://github.com/skully-coder/IECSE-App-Winter-Project-20/blob/Ilham-Rahm/Task%202/prevention1.png)
+![screenshot](https://github.com/skully-coder/IECSE-App-Winter-Project-20/blob/Ilham-Rahm/Task%202/dark%20mode1(bonus).png)
+![screenshot](https://github.com/skully-coder/IECSE-App-Winter-Project-20/blob/Ilham-Rahm/Task%202/dark%20mode2(bonus).png)
+![screenshot](https://github.com/skully-coder/IECSE-App-Winter-Project-20/blob/Ilham-Rahm/Task%202/dark%20mode3(bonus).png)
+
+
 
 ## Packages/Assets used:
 used covid-2.jpg and covid-19-1600x900.jpg as images
