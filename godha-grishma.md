@@ -1,2 +1,2 @@
-## WEEK 0
-![Screenshot_1610733318](task0/Screenshot_1610733318.png)g
+WEEK 1
+![Screenshot_1](task1/Screenshot_1.png)
