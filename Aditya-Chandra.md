@@ -11,3 +11,12 @@
 
 ## Packages/Assets Used:
 // Font: pixel_bubble.ttf
+
+# Week 2
+
+## Task Description:
+// Creating a Covid Info App
+![AppScreenshot](<>)
+
+## Packages Used:
+// None
