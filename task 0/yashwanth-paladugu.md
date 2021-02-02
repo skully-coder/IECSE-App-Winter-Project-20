@@ -10,3 +10,11 @@ For this task we want you to create something personal, your very own Profile! T
 ![testapp-image](<>)
 ## Packages/Assets Used:
 no packages used in assets only one image is used
+
+# week-2
+##  Task Description:
+In this task, you will be implementing an app which has multiple pages and possibly links. Since these are the times, where we are struck with a pandemic, we will build a COVID Information App!
+#### App Screenshots:
+![app-image](<>)
+##  Packages/Assets Used:
+no packages used in , assets only one image is used
