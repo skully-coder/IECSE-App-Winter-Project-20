@@ -41,6 +41,33 @@ class _MainPageState extends State<MainPage> {
           ),
           backgroundColor: barColor,
         ),
+        drawer: Drawer(
+          child: ListView(
+            children: <Widget>[
+              UserAccountsDrawerHeader(
+                accountName: Text("ROKKAM SAI KIRAN REDDY"),
+                accountEmail: Text("kiran20.rokkam@gmail.com"),
+                currentAccountPicture: CircleAvatar(
+                  radius: 30.0,
+                  backgroundImage: AssetImage('assests/rokkam.jpg'),
+                ),
+              ),
+              ListTile(
+                title: Text("My orders"),
+                onTap: () => Navigator.of(context).pushNamed("/myorders"),
+              ),
+              ListTile(
+                title: Text("My wishlist"),
+                onTap: () => Navigator.of(context).pushNamed("/mywishlist"),
+              ),
+              ListTile(
+                title: Text("close"),
+                trailing: Icon(Icons.close),
+                onTap: () => Navigator.of(context).pop(),
+              ),
+            ],
+          ),
+        ),
         backgroundColor: mode,
         body: Container(
           margin: EdgeInsets.symmetric(horizontal: 20, vertical: 30),

@@ -1,4 +1,6 @@
 import 'package:flutter/material.dart';
+import 'package:week_1/myorders.dart';
+import 'package:week_1/mywishlist.dart';
 import 'mainPage.dart';
 import 'about.dart';
 import 'symptoms.dart';
@@ -17,6 +19,8 @@ class COVIDApp extends StatelessWidget {
       initialRoute: '/',
       routes: {
         '/': (context) => MainPage(),
+        '/myorders': (context) => myorders(),
+        '/mywishlist': (context) => mywishlist(),
         '/about': (context) => AboutPage(),
         '/symptoms': (context) => SymptomsPage(),
         '/transmission': (context) => TransmissionPage(),
