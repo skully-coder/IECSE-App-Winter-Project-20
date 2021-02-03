@@ -5,5 +5,6 @@
 # week1
 ![screenshot](https://github.com/skully-coder/IECSE-App-Winter-Project-20/blob/rokkam-saikiran/task1.1/TASK1.jpeg)
  
-# week2
-![screenshot](https://github.com/skully-coder/IECSE-App-Winter-Project-20/blob/rokkam-saikiran/task2/task2.jpeg) 
+# week2.1
+![screenshot](https://github.com/skully-coder/IECSE-App-Winter-Project-20/blob/rokkam-saikiran/task2/task2.1.jpeg)
+
