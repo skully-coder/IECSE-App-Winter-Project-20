@@ -8,3 +8,5 @@
 # week2.1
 ![screenshot](https://github.com/skully-coder/IECSE-App-Winter-Project-20/blob/rokkam-saikiran/task2/task2.1.jpeg)
 
+# week2.2
+![screenshot](https://github.com/skully-coder/IECSE-App-Winter-Project-20/blob/rokkam-saikiran/task2/task2.2.jpeg)
