@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'currentTheme.dart';
+
 
 class OSRPage extends StatefulWidget {
   @override
@@ -47,15 +47,14 @@ class _OSRPageState extends State<OSRPage> {
       child: Scaffold(
 
         appBar:  AppBar(
-          title: Center(child: Text("Other Safety Rules",
+          centerTitle:true ,
+          title: Text("Other Safety Rules",
               style : TextStyle(
                   color: textColors,
                   fontFamily: 'Bebas_Neue',
-                  fontSize: 30
+                  fontSize: 30,
+
               )
-          ),
-
-
           ),
           backgroundColor: barColor,
         ),

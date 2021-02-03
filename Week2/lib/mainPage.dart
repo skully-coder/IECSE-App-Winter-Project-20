@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'currentTheme.dart';
+
 
 
 
@@ -40,15 +40,13 @@ class _MainPageState  extends State<MainPage> {
        SafeArea(
          child: Scaffold(
           appBar: AppBar(
-            title: Center(child: Text("COVID-19 Information",
+            centerTitle: true,
+            title: Text("COVID-19 Information",
                 style : TextStyle(
                     color: textColors,
                     fontFamily: 'Bebas_Neue',
                     fontSize: 30
                 )
-            ),
-
-
             ),
             backgroundColor: barColor,
           ),

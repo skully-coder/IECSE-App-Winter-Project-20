@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'currentTheme.dart';
+
 
 class AboutPage extends StatefulWidget {
   @override
@@ -16,15 +16,13 @@ var textColors = Colors.black;
       child: Scaffold(
 
         appBar:  AppBar(
-      title: Center(child: Text("About",
+          centerTitle: true,
+      title: Text("About",
           style : TextStyle(
               color: textColors,
               fontFamily: 'Bebas_Neue',
               fontSize: 30
           )
-      ),
-
-
       ),
 
       backgroundColor: barColor,

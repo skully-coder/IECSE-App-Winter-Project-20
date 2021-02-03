@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'currentTheme.dart';
+
 
 class SymptomsPage extends StatefulWidget {
   @override
@@ -16,15 +16,13 @@ class _SymptomsPageState extends State<SymptomsPage> {
       child: Scaffold(
 
         appBar:  AppBar(
-          title: Center(child: Text("Symptoms",
+          centerTitle: true,
+          title: Text("Symptoms",
               style : TextStyle(
                   color: textColors,
                   fontFamily: 'Bebas_Neue',
                   fontSize: 30
               )
-          ),
-
-
           ),
           backgroundColor: barColor,
         ),

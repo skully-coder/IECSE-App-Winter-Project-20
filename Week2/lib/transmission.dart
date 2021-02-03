@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'currentTheme.dart';
 
 
 class TransmissionPage extends StatefulWidget {
@@ -17,15 +16,13 @@ class _TransmissionPageState extends State<TransmissionPage> {
       child: Scaffold(
 
         appBar:  AppBar(
-          title: Center(child: Text("Transmission",
+          centerTitle: true,
+          title: Text("Transmission",
               style : TextStyle(
                   color: textColors,
                   fontFamily: 'Bebas_Neue',
                   fontSize: 30
               )
-          ),
-
-
           ),
           backgroundColor: barColor,
         ),

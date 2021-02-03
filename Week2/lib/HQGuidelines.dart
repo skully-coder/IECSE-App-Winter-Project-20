@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'currentTheme.dart';
+
 
 
 class HQGuidelinesPage extends StatefulWidget {
@@ -44,15 +44,13 @@ class _HQGuidelinesPageState extends State<HQGuidelinesPage> {
       child: Scaffold(
 
         appBar:  AppBar(
-          title: Center(child: Text("Home Quarantine Guidelines",
+          centerTitle: true,
+          title: Text("Home Quarantine Guidelines",
               style : TextStyle(
                   color: textColors,
                   fontFamily: 'Bebas_Neue',
                   fontSize: 30
               )
-          ),
-
-
           ),
           backgroundColor: barColor,
         ),
