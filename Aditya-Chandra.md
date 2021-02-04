@@ -16,9 +16,13 @@ Font: pixel_bubble.ttf
 
 ## Task Description:
 Creating a Covid Info App
+
 ![AppScreenshot](<https://raw.githubusercontent.com/skully-coder/IECSE-App-Winter-Project-20/Aditya-Chandra/Task%202/01home.png>)
+
 ![AppScreenshot1](<https://raw.githubusercontent.com/skully-coder/IECSE-App-Winter-Project-20/Aditya-Chandra/Task%202/02about.png>)
+
 ![AppScreenshot2](<https://raw.githubusercontent.com/skully-coder/IECSE-App-Winter-Project-20/Aditya-Chandra/Task%202/03symptoms.png>)
+
 ![AppScreenshot3](<https://raw.githubusercontent.com/skully-coder/IECSE-App-Winter-Project-20/Aditya-Chandra/Task%202/04transmission.png>)
 
 ### BonusTask
